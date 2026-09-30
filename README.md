@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 root@daniel:~# initialize_profile
 [+] Identity loaded
@@ -8,6 +6,9 @@ root@daniel:~# initialize_profile
 [+] Database connected
 [+] Access granted
 ```
+
+<div align="center">
+
 
 ### `Fullstack Developer // React // Node.js // Express // MySQL // Data Engineering`
 
